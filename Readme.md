@@ -40,10 +40,6 @@ Este proyecto no tiene dependencias externas.  Utiliza JavaScript puro (vanilla 
 
 Las contribuciones son bienvenidas.  Si encuentras algún error o tienes alguna sugerencia de mejora, por favor, abre un *issue* o envía un *pull request*.
 
-## Licencia
-
-Este proyecto está bajo la Licencia [MIT License](LICENSE) - ver el archivo LICENSE para más detalles. (Nota: Debes crear un archivo LICENSE y elegir una licencia apropiada, por ejemplo, la MIT License, que es muy común para proyectos de código abierto).
-
 
 ## Autor
 Borja Felix Rojas
